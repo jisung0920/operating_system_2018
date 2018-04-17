@@ -1,0 +1,1 @@
+cmd_/home/jisung/jisung/cse/operating_system/week6/ex6.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jisung/jisung/cse/operating_system/week6/ex6.ko /home/jisung/jisung/cse/operating_system/week6/ex6.o /home/jisung/jisung/cse/operating_system/week6/ex6.mod.o

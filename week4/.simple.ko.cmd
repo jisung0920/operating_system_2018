@@ -1,0 +1,1 @@
+cmd_/home/jisung/jisung/cse/operating_system/week4/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jisung/jisung/cse/operating_system/week4/simple.ko /home/jisung/jisung/cse/operating_system/week4/simple.o /home/jisung/jisung/cse/operating_system/week4/simple.mod.o
