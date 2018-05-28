@@ -15,7 +15,7 @@ int main(){
 		printf("childL pid1 = %d\n",pid1);
 	}
 	else{
-		pid = getpid();
+		pid1 = getpid();
 		printf("parent: pid = %d\n",pid);
 		printf("parent: pid1 = %d\n",pid1);
 		wait(NULL);
